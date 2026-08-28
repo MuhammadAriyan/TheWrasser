@@ -1,6 +1,5 @@
-<p align="center">
+<div align="center" style="background-color: #000000; padding: 20px;">
   <img src="./header.gif" alt="Project Logo">
-
-![Wrasser](./readmebox_white(1).svg)
-</p>
-
+  <br>
+  <img src="./readmebox_white(1).svg" alt="Wrasser">
+</div>
