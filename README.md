@@ -1,5 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
-  <rect width="800" height="400" fill="#000000" />
-  <image href="./header.gif" x="0" y="0" width="800" height="300" preserveAspectRatio="xMidYMid meet" />
-  <image href="./readmebox_white(1).svg" x="0" y="300" width="800" height="100" preserveAspectRatio="xMidYMid meet" />
-</svg>
+<p align="center">
+  <img src="./banner.svg" alt="Wrasser Banner">
+</p>
